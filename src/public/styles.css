@@ -22,10 +22,12 @@
 
 .center-content {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  /* max-width: 500px;
+  margin: auto; */
 }
 
 .side-by-side {
